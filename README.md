@@ -4,6 +4,7 @@ Facebook Messenger Quick-Start Sample in Golang https://glitch.com/edit/#!/proje
 ### building and running
 
 `go build messenger-bot.go`
+
 `VERIFY_TOKEN=??? PAGE_ACCESS_TOKEN=??? ./messenger-bot`
 
 ### using docker
